@@ -1,4 +1,4 @@
-# Fine-tuning-RoBERTa-with-LoRA
+# Fine tuning RoBERTa with LoRA
 Using LoRA in the Query and Value in the Attention layers
 
 Base model param count: 125237762
